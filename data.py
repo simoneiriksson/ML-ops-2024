@@ -1,5 +1,3 @@
-## Test merge conflict
-
 import torch
 
 def mnist():
