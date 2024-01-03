@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Create merge conflict on laptop side
+=======
+# Create merge conclift on github side
+>>>>>>> b0cb4b45b0a5cc5883027de48e8e7b8778af01f0
 
 import torch
 
