@@ -1,6 +1,6 @@
+## Test merge conflict
+
 import torch
-
-
 
 def mnist():
     """Return train and test dataloaders for MNIST."""
