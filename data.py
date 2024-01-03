@@ -1,7 +1,7 @@
 # Create merge conflict on laptop side
 
 import torch
-# tester igen
+
 def mnist():
     """Return train and test dataloaders for MNIST."""
     # exchange with the corrupted mnist dataset
